@@ -1,0 +1,15 @@
+{
+  "name": "publicimpact",
+  "description": "Skills von Public Impact für alle, die mit KI Videos machen",
+  "owner": {
+    "name": "Public Impact",
+    "email": "hey@publicimpact.ai"
+  },
+  "plugins": [
+    {
+      "name": "video",
+      "source": "./",
+      "description": "Erklärfolge bauen, Footage sortieren, Drehpapiere erstellen, Untertitel übersetzen"
+    }
+  ]
+}
