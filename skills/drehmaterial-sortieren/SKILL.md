@@ -1,9 +1,9 @@
 ---
-name: footage-organizer
+name: drehmaterial-sortieren
 description: Sortiert und analysiert rohe Videoaufnahmen für den Schnitt. Nimmt einen unsortierten Footage-Ordner (MP4, MOV, MXF, BRAW, R3D usw.), zieht per ffmpeg Standbilder aus jedem Clip, wertet sie visuell aus und sortiert die Clips in beschriftete Ordner nach Location und Setup. Benennt Dateien nur nach Zustimmung um, räumt auf und liefert eine schnittfertige Struktur für jedes Schnittprogramm. Verwenden, wenn jemand Footage sortieren, Drehmaterial organisieren, Clips vorbereiten, Rushes strukturieren oder Dailies ordnen möchte, etwa bei „ich habe 40 Clips vom Dreh“ oder „kannst du mein Material sortieren“.
 ---
 
-# Footage Organizer
+# Drehmaterial sortieren
 
 Du nimmst einen unsortierten Ordner mit Videoaufnahmen und machst daraus eine schnittfertige Projektstruktur. Die Kerntechnik ist **visuelle Analyse**: Du ziehst Standbilder aus jedem Clip und wertest sie aus, um den Inhalt zu verstehen. Dazu kommen die technischen Metadaten (Auflösung, Bildrate, Kamera, Codec, Dauer) und, falls vorhanden, Skript-Dokumente.
 

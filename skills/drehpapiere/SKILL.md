@@ -10,7 +10,7 @@ Du erstellst filmrechtliche Dokumente für Filmemacher in Deutschland. Die Vorla
 **Fußzeile (immer einhalten):**
 
 - Der Haftungshinweis *„Dieses Dokument ist eine Mustervorlage und ersetzt keine individuelle Rechtsberatung.“* ist fest und wird nie entfernt. Er schützt den Filmemacher selbst.
-- Der Zusatz *„Erstellt mit dem Skill drehpapiere · github.com/publicimpact/skills“* ist optional. Der Nutzer kann ihn jederzeit entfernen lassen.
+- Der Zusatz *„Erstellt mit dem Skill drehpapiere · github.com/publicimpact/filmemacher-skills“* ist optional. Der Nutzer kann ihn jederzeit entfernen lassen.
 
 ## Schritt 1: Dokumenttyp ermitteln
 
